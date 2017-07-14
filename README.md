@@ -13,10 +13,5 @@ This contains the following:
 +	Project Documentation
 
 You can view other Bots developed for Azure in <a href="https://github.com/bentowner/edgar">this template</a>.
-Simple execute the script and pass in the folder name of the sample you want to deploy.  For example:
-
-```PowerShell
-.\Deploy-AzureResourceGroup.ps1 -ResourceGroupLocation 'eastus' -ArtifactsStagingDirectory '[foldername]'
-```
 
 [aws]: https://bentowner.blob.core.windows.net/images/EPS.png?raw=true "AWS Chatbot Challenge"
