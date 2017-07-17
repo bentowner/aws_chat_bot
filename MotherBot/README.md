@@ -1,17 +1,19 @@
 ![alt text][aws]
 # MotherBot - AWS Chatbot submission
-How many hours in a day does a parent have to filter the digital content and ‘Trust but Verify’ their children are communicating within acceptable guidelines.  Ask your 'Mother' if she would let a stranger call the house and talk to you when you were a kid?
 
-**MotherBot** – Enable Parents or Parental guardians to manage the monitoring of the digital presence of those children under age 18, while providing an appropriate level of privacy and respect.  The AWS Chat Bot allows various communication channels to be added to a child’s laptop or mobile devices with the primary purpose of monitoring of content, verify the identity of the individual connections and provide trending statistics to anticipate edge-cases of how these communications tools are used.
+**MotherBot** helps by Sharing Calendars, Approved Contacts and provides a self-service administration platform for the C.E.O. of the Home to effectively schedule and organize.  The AWS Chat Bot allows various processes to be made available to these household with the primary purpose of verifying the identity of the individual connections, formalizing an approval process and managing the ‘feasibility’ on the calendar.  
 
-Workflows replicate several key components that a Parent might perform on a social media contact that their child may have, such as verify the name of the individual or address where they live.  In the past, talking with other parents in the community provides a ‘Herd mentality’ approach to validating contacts as a protection function. ‘Googling’ the individuals of interest usually identify red-flags immediately if there are any issue to be concerned with about those individuals that are known to the parent.  
+## **Uniqueness**
 
+Households are like mini-organizations, except their members or ‘little users’ often find themselves in a place of constant challenge and response.  Seeking approval and then finding out how to facilitate getting it done is the world that ‘Tweens’ live in.  The coordination required among Parents often requires effective communication practices regardless of your Work-life or Marital status.  Technology can enable Parents or Parental guardians to manage the household workloads while providing an appropriate level of privacy and respect.
 ![alt text][chat]
 
-**MotherBot** creates this self-service administration platform for private networks to grant access, while leveraging the benefits of a high availability and accessibility infrastructure via AWS.  It can provide a self-service verification process to those new contacts by describing the steps needed for contacts to be added and exactly what type of monitoring will be performed after it is completed.  It can also be integrated into Public Search to verify the matching results.  Once permissions are granted, it can continue to monitor communication transactions as a proxy and deliver notifications if context thresholds are exceeded for things like appropriateness or dialect.
+## Design Components
+There are 3 main functional aspects to MotherBot.  
 
-Kids will be kids, but now they can be safe and enriched by providing the parents more time to be parents instead of data detectives.  
-
+1.	Identity and Access Management (Contact Management)
+2.	Activity Approval
+3.	Calendar Feasibility
 
 [aws]: https://bentowner.blob.core.windows.net/images/EPS.png?raw=true "AWS Chatbot Challenge"
 [chat]: https://bentowner.blob.core.windows.net/images/awschatbot2.png?raw=true "AWS Chatbot Structure"
